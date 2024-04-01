@@ -1,0 +1,14 @@
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\bin\Debug\net6.0\P01-Classes.exe
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\bin\Debug\net6.0\P01-Classes.deps.json
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\bin\Debug\net6.0\P01-Classes.runtimeconfig.json
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\bin\Debug\net6.0\P01-Classes.dll
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\bin\Debug\net6.0\P01-Classes.pdb
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.AssemblyInfoInputs.cache
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.AssemblyInfo.cs
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.csproj.CoreCompileInputs.cache
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.dll
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\refint\P01-Classes.dll
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.pdb
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\P01-Classes.genruntimeconfig.cache
+C:\Users\PC_1_User\Desktop\KursaITKariera2024\S03-Modul3\P01-Classes\obj\Debug\net6.0\ref\P01-Classes.dll
